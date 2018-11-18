@@ -3,7 +3,7 @@
 
 Live Web App:
 
-This is a prototype for a freely available online tool that can predict the health of a bee hive by looking at an image of a bee. This could help bee keepers and bee researchers estimate the health of a bee hive without having to disturb the hive itself. 
+This is a prototype for a freely available online tool that can predict the health of a bee hive by looking at an image of a bee. This could help bee keepers and bee researchers evaluate the health of a bee hive without having to disturb the hive itself. 
 
 The app outputs 6 possible bee hive conditions:<br>
 
