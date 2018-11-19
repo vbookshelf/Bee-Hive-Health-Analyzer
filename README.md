@@ -1,7 +1,7 @@
 
-== DRAFT ==
 
-Live Web App:
+
+Live Web App: http://bee.test.woza.work/
 
 This is a prototype for a freely available online tool that can predict the health of a bee hive by looking at an image of a bee. This could help bee keepers and bee researchers evaluate the health of a bee hive without having to disturb the hive itself. 
 
@@ -16,9 +16,10 @@ The app outputs 6 possible bee hive conditions:<br>
 
 
 
-Model F1 score: 0.96
+Model F1 score: 0.94
 
-The process used to build and train the model is described in this Kaggle kernel:
+The process used to build and train the model is described in this Kaggle kernel:<br>
+https://www.kaggle.com/vbookshelf/bee-hive-health-analyzer-web-app
 
 
 The dataset used for the training can be found here:<BR>
