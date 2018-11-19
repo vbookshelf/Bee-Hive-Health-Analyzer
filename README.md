@@ -7,12 +7,12 @@ This is a prototype for a freely available online tool that can predict the heal
 
 The app outputs 6 possible bee hive conditions:<br>
 
-0: "healthy",<br>
-1: "few varrao, hive beetles",<br>
-2: "varroa, small hive beetles",<br>
-3: "ant problems",<br>
-4: "hive being robbed",<br>
-5: "missing queen"<br>
+0: healthy<br>
+1: few varrao, hive beetles<br>
+2: varroa, small hive beetles<br>
+3: ant problems<br>
+4: hive being robbed<br>
+5: missing queen<br>
 
 
 
