@@ -1,7 +1,13 @@
 
-
+## Bee-Hive-Health-Analyzer
 
 Live Web App: http://bee.test.woza.work/
+
+<br>
+
+<img src="http://bee.test.woza.work/assets/bee_sample.png" width="350"></img>
+
+<br>
 
 This is a prototype for a freely available online tool that can predict the health of a bee hive by looking at an image of a bee. This could help bee keepers and bee researchers evaluate the health of a bee hive without having to disturb the hive itself. 
 
